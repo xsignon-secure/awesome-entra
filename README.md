@@ -70,7 +70,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Microsoft Entra Connect](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history)
 - [Microsoft Entra Provisioning Agent](https://learn.microsoft.com/en-us/entra/identity/hybrid/cloud-sync/reference-version-history)
 - [Microsoft Entra Connect Health agents](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-health-agent-install)
-
+- [EffectivePasskey](https://github.com/xsignon-secure/EffectivePasskey) - Free, offline auditor that computes each user's effective passkey policy after overlapping profiles and Conditional Access resolve, and who the SMS/voice retirement will block.
 ### CLI
 
 - [365AutomatedLab](https://github.com/DevClate/365AutomatedLab) - Create a Microsoft 365 Test Environment using a test data from an Excel workbook. [![stars](https://badgen.net/github/stars/DevClate/365AutomatedLab)](https://badgen.net/github/stars/DevClate/365AutomatedLab)
